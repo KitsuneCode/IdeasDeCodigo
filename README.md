@@ -129,11 +129,11 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 
 _Ayudame con este trabajo en nacimiento, si eres creador de juegos en C++ no dudes en incluir tu aplicacion o colaborarme y te pondre aqui_
 
-* **KitsuneCode** - *Trabajo Inicial* - [KitsuneCode](https://github.com/KitsuneCode/Info)
+* **KitsuneCode** - *Trabajo Inicial* - [KitsuneCode](https://github.com/KitsuneCode)
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia Boost Software License 1.0 - mira el archivo [LICENSE](LICENSE) para detalles
+Este proyecto está bajo la Licencia GNU General Public License v3.0 - mira el archivo [LICENSE](LICENSE) para detalles
 
 ## Expresiones de Gratitud 🎁
 
