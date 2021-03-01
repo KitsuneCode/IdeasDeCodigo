@@ -11,17 +11,20 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 
 ### Pre-requisitos 📋
 
-_Para ejecutar los codigos desde el codigo base (En caso de que lo desees) nesesitaras un programa que soporte C++, aqui te dejo algunos que utilizo:_
+_Para ejecutar los codigos (En caso de que lo desees y por si los nesesitas) nesesitaras un programa que soporte C++, aqui te dejo algunos que utilizo:_
 
+> Para C++
 * [Dev-C++](https://www.bloodshed.net) - Un poderoso programa para crear apps a partir del lenguage C# y C++ con librerias incluidas - Recomendado por mi
+
+Tambien puedes usar este [compilador](http://cpp.sh) web que recomiendo mucho
+
+> Para varios lenguajes
 * [Visual Studio Code](https://code.visualstudio.com) - Un programa muy estable con capacidad de soporte para muchos lenguages
 * [Sublime Text](https://www.sublimetext.com) - Un programa compacto y facil de utilizar
 * [Notepad++](https://notepad-plus-plus.org) - Un programa con una amplia gama de lectura para diversos lenguajes
 * [Atom](https://atom.io) - Un programa ideal para los expertos en programación
 
-Tambien puedes usar este [compilador](http://cpp.sh) web que recomiendo mucho
-
-_Esos son algunos que recomiendo, si tienes otro que soporte C++ no dudes en usarlo_
+_Esos son algunos que recomiendo, si tienes otro no dudes en usarlo_
 
 ### Instalación 🔧
 
@@ -112,15 +115,15 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 ## Contribuyendo 🖇️
 
-Por favor lee el [CONTRIBUTING.md](https://github.com/KitsuneCode/InputGames/blob/General/CONTRIBUTING.md) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
+Por favor lee el [CONTRIBUTING.md](https://github.com/KitsuneCode/IdeasDeCodigo/blob/General/CONTRIBUTING.md) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
 
 ## Wiki 📖
 
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/KitsuneCode/InputGames/wiki)(Aun es un trabajo en proceso)
+Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/KitsuneCode/IdeasDeCodigo/wiki)(Aun es un trabajo en proceso)
 
 ## Versionado 📌
 
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
+Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/KitsuneCode/IdeasDeCodigo/tags).
 
 ## Autores ✒️
 
